@@ -95,7 +95,7 @@ h2 {
 
 @media (max-width: 374px) {
 
-    .container h2{
+    .container h2 {
         font-size: 1.25rem;
     }
 }
